@@ -1,10 +1,9 @@
 # Prospective Assets
 | Features      | Sources    |
 | :------------- | :----------: |
-|  hand sanitizer | unsplash.com  |
-|  brain | unsplash.com   |
-|  cigarette | unsplash.com  |
-|  face mask | unsplash.com   |
-|  vaccine | unsplash.com  |
-|  running water | unsplash.com |
-|  seat belts | unsplash.com |
+|  hand sanitizer | Uploaded by on (Unsplash)[https://unsplash.com/photos/8umsYTYG_kI]. Downloaded with the (Unsplash License)[https://unsplash.com/license] allowing free downloads without permission for commercial and non-commercial purposes.  |
+|  face mask | Uploaded by Markus Winkler (@markuswinkler)[https://unsplash.com/@markuswinkler] on (Unsplash)[https://unsplash.com/photos/lsjvTKxiMwA]. Downloaded with the (Unsplash License)[https://unsplash.com/license] allowing free downloads without permission for commercial and non-commercial purposes.  |
+|  face mask 2 | Uploaded by Brian McGowan (@sushioutlaw)[https://unsplash.com/@sushioutlaw] on (Unsplash)[https://unsplash.com/photos/ixgRYSGBMaM]. Downloaded with the (Unsplash License)[https://unsplash.com/license] allowing free downloads without permission for commercial and non-commercial purposes.  |
+|  COVID-19 vaccine | Uploaded by Hakan Nural (@hakannural)[https://unsplash.com/@hakannural] on (Unsplash)[https://unsplash.com/photos/YCVUR2JgfHA]. Downloaded with the (Unsplash License)[https://unsplash.com/license] allowing free downloads without permission for commercial and non-commercial purposes.  |
+|  running water | Uploaded by Nicolas COMTE (@rotor_)[https://unsplash.com/@rotor_] on (Unsplash)[https://unsplash.com/photos/Y10FXNqFdvk]. Downloaded with the (Unsplash License)[https://unsplash.com/license] allowing free downloads without permission for commercial and non-commercial purposes.  |
+|  pollution from a factory | Uploaded by Thijs Stoop (@thijsstoop)[https://unsplash.com/@thijsstoop] on (Unsplash)[https://unsplash.com/photos/A_AQxGz9z5I]. Downloaded with the (Unsplash License)[https://unsplash.com/license] allowing free downloads without permission for commercial and non-commercial purposes. |
